@@ -29,3 +29,28 @@ header h1{
 header p {
     font-size: 1.2em;
 }
+{
+    max-widht:800px;
+    margin:20px auto;
+}
+{
+    margin-botton:20px;
+    padding:20px;
+    background-color#fff
+    boder-radius:8px;
+    box-shadow:0 2px 5px rgba(0,0,0,0,1);
+}
+{
+    color#0073e6;
+    font-size:1.8em;
+    margin-botton:10px;
+}
+{
+    background-color#333;
+    color:white;
+    text-align:center;
+    padding:10px 0;
+    position-fixed;
+    width:100%;
+bottom:0;
+}
