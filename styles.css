@@ -7,7 +7,7 @@
 
 body{
     font-family: Arial, sans-serif;
-    background-color: #f7d0fc;
+    background-color: #f7e3fa;
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -15,7 +15,7 @@ body{
 }
 
 header{
-    background-color: #fd4fc9;
+    background-color: #ff77d6;
     color: white;
     padding: 20px;
     text-align: center;
@@ -31,4 +31,10 @@ header h1{
 header p {
     font-size: 1.2em;
     text-align: center;
+}
+header h2{
+    font-size: 2em;
+    margin-bottom: 10px;
+    text-align: center;
+    
 }
